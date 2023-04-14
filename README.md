@@ -1,7 +1,7 @@
-Generate a predictive model using a dataset about Arbnbb price in Europe found in the Kaggle website: https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities
+Generate a predictive model using a dataset about Airbnb prices in Europe found in the Kaggle website: https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities
 
 
-Data Exploration : Genertaion oh heatmap and correlation matrix
+Data Exploration : Generation oh heatmap and correlation matrix
 
 
 Data-Preparation: Identify significant features of interest for the models through the assistance of automated feature selection algorightms, such as recursive
